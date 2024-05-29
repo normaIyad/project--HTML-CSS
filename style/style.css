@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url(./public.css);
 
 /* start header */
@@ -651,10 +650,6 @@
   font-size: 14px;
   font-weight: 200px;
 }
-
-=======
-@import url(./public.css);
-
 /* start header */
 .header {
   position: sticky;
@@ -1159,6 +1154,4 @@ width: 100%;
   font-size: 14px;
   font-weight: 200px;
 }
-
->>>>>>> origin/main
 /* end footer */
